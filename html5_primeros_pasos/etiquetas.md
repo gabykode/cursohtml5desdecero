@@ -13,7 +13,7 @@ Por ejemplo:
 ```html
 <a href="http://www.google.com">Google</a>
 ```
-En este caso decimos que: "*tenemos un elemento **a** donde el valor del atributo **href** es **http://www.google.com**, y que su contenido es **Google***". No hace falta que te preocupes aún por el significado, luego haremos incapié en esto.
+En este caso decimos que: "*tenemos un elemento **a** donde el valor del atributo **href** es **http://www.google.com**, y que su contenido es **Google***". No hace falta que te preocupes aún por el significado, luego haremos hincapié en esto.
 
 Si nos fijamos las etiquetas **siempre** están contenidas entre los símbolos *< >*, y el cierre sólo incluye el nombre del elemento precedido de una barra lateral "*/*" (p.e. </elemento>).
 
